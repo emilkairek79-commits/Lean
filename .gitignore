@@ -1,6 +1,9 @@
 # OS Files
 .DS_Store
 
+# Environment secrets
+.env
+
 # Object files
 *.o
 *.ko
